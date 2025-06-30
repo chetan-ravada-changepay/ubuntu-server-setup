@@ -28,7 +28,7 @@ Clone this repository into your home directory:
 
 ```bash
 cd ~
-git clone git@github.com:chetan-ravada-changepay/ubuntu-server-setup.git
+git clone https://github.com/chetan-ravada-changepay/ubuntu-server-setup.git
 ```
 
 Run the setup script
